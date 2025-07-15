@@ -1,11 +1,11 @@
 # Relatorio de Implementacao de servicos AWS
-Data: 17/07/2025
-Empresa: Farmacia SS
-Responsavel: Joao Vitor Sampaio dos Santos
+- Data: 17/07/2025 
+- Empresa: SS Farmacias
+- Responsavel: Joao Vitor Sampaio dos Santos
 
 ## Introducao
 Este relatorio apresenta o processo de Implementacao de ferramentas 
-na empresa Farmacia SS, realizado por Joao Vitor Sampaio dos Santos. O
+na empresa SS Farmacias, realizado por Joao Vitor Sampaio dos Santos. O
 objetivo do projeto foi *elencar 3 servicos AWS*, com a finalidade de 
 realizar diminuicao de custos imediatos
 
